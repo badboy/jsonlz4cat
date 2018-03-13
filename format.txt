@@ -1,0 +1,2 @@
+ 8 bytes   | 4 bytes     | [remaining]
+[mozLz40\0] {u32 outsize} {compressed data}

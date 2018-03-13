@@ -1,0 +1,8 @@
+[package]
+name = "jsonlz4cat"
+version = "0.1.0"
+authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+
+[dependencies]
+byteorder = "1.2.1"
+lz4-compress = "0.1.1"
